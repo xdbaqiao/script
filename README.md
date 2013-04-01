@@ -7,9 +7,9 @@ It's so funny!
     
 **Result:**     
        
-       `yexinjing@vipsl ~ ^_^`         
-       `yexinjing@vipsl ~ T_T`        
-       `yexinjing@vipsl ~ >_<`         
-       `yexinjing@vipsl ~ ^(oo)^`           
-       `yexinjing@vipsl ~ (￣﹁￣)`       
-       `yexinjing@vipsl ~ $_$ `          
+       yexinjing@vipsl ~ ^_^         
+       yexinjing@vipsl ~ T_T        
+       yexinjing@vipsl ~ >_<         
+       yexinjing@vipsl ~ ^(oo)^           
+       yexinjing@vipsl ~ (￣﹁￣)       
+       yexinjing@vipsl ~ $_$           
