@@ -11,7 +11,9 @@ if [ ! $1 ];then
     let num=$(($RANDOM % 6))
     chg=${face[$num]}
 else
-    chg=$1
+    echo 'Error.'
+    exit
+    #chg='$1'
 fi
 
 echo $chg
