@@ -1,7 +1,7 @@
 Interesting shell scripts.
 =======
-**face_zsh.sh :    Change the zsh prompt**    
 __________________
+**face_zsh.sh :    Change the zsh prompt**    
         
 You can select face expression from  "\>\_<", "^_^", "T\_T", "$_$", "(￣﹁￣)", "^(oo)^" randomly.                      
 It's so funny!          
@@ -16,8 +16,8 @@ It's so funny!
        yexinjing@vipsl ~ $_$           
 
 
-**ip_ping.sh :    find the useful ip-address in LAN**    
 __________________
+**ip_ping.sh :    find the useful ip-address in LAN**    
       
 You can get all ip-addresses in use.      
 Need root.
