@@ -9,7 +9,7 @@ do
     ipadd=$src$i
     ping -c 1 -w 1 $ipadd >/dev/null
     if [ $? -eq 0 ];then
-        echo "ip: "$ipadd" is useful."
+        echo "ip: "$ipadd" is in use."
         result=`nmap -F -O $ipadd | grep 'Running'`
         if [ $? -eq 0 ];then
             resss="$resss$ipadd $result

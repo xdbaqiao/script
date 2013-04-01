@@ -21,3 +21,10 @@ __________________
       
 You can get all ip-addresses in use.      
 Need root.
+
+**Result:**     
+
+    ip: 219.245.64.7 is in use.
+    ip: 219.245.64.9 is in use.
+    ip: 219.245.64.11 is in use.
+    ip: 219.245.64.41 is in use.
