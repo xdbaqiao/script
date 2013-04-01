@@ -1,7 +1,7 @@
 #!/bin/bash
 #>_<, ^_^, T_T, $_$, (￣﹁￣), ^(oo)^
 
-file=/home/yexinjing/.zshrc
+file=$HOME/.zshrc
 output_file=/tmp/zshrc.tmp
 
 face=('>_<' '\^_\^' 'T_T' '\$_\$' '(￣﹁￣)' '\^(oo)\^')
