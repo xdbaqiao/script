@@ -19,7 +19,7 @@ It's so funny!
 __________________
 **ip_ping.sh :    find the useful ip-address in LAN**    
       
-You can get all ip-addresses in use.      
+You can get all ip-addresses in use and the operation system information in /tmp/os.      
 Need root.
 
 **Result:**     
