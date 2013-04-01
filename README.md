@@ -11,4 +11,4 @@ It's so funny!
        `yexinjing@vipsl ~ >_<`         
        `yexinjing@vipsl ~ ^(oo)^`           
        `yexinjing@vipsl ~ (￣﹁￣)`       
-       `yexinjing@Paradise ~ $_$ `          
+       `yexinjing@vipsl ~ $_$ `          
