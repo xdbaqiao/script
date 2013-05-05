@@ -1,4 +1,4 @@
-Interesting shell scripts.
+Interesting scripts.
 =======
 __________________
 **face_zsh.sh :    Change the zsh prompt**    
@@ -59,5 +59,6 @@ Batch : `python2 xdPay.py [-b]`
                
     Copyright 2013 YeXinjing     
         
-    All codes is licensed under GPLv2. This means you can use those codes according to the license on a case-by-case basis.     
+    All codes is licensed under GPLv2. 
+    This means you can use those codes according to the license on a case-by-case basis.      
     However, you cannot modify it and distribute it without supplying the source.
