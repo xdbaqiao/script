@@ -2,10 +2,11 @@ Interesting scripts.
 =======
 __________________
 **backup_incrimentally.sh:   Backup your Subversion incrimentally**      
-This script is used to backup the svn data incrimentally.
-Add in 2015-01-08.
-
-
+This script is used to backup the svn data incrimentally.       
+Add in 2015-01-08.       
+       
+         
+         
 __________________
 **face_zsh.sh :    Change the zsh prompt**    
         
