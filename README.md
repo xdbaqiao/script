@@ -1,10 +1,16 @@
 Interesting scripts.
 =======
 __________________
+**backup_incrimentally.sh:   Backup your Subversion incrimentally**      
+This script is used to backup the svn data incrimentally.
+Add in 2015-01-08.
+
+
+__________________
 **face_zsh.sh :    Change the zsh prompt**    
         
 You can select face expression from  "\>\_<", "^_^", "T\_T", "$_$", "(￣﹁￣)", "^(oo)^" randomly.                      
-It's so funny!          
+Have fun!
     
 **Result:**     
        
@@ -55,7 +61,8 @@ Batch : `python2 xdPay.py [-b]`
     ...    
 
 
-**LICENSE**         
+LICENSE       
+============
                
     Copyright 2013 YeXinjing     
         
